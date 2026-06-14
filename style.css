@@ -41,7 +41,7 @@ h3 {
 
 .photo-card img {
     max-width: auto;
-    height: auto; 
+    height: 100%; 
     display: block;
     }
 
